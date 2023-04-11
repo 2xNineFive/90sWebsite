@@ -1,0 +1,33 @@
+
+body {
+    background-image: url(https://media1.giphy.com/media/fS9PCxQYG0ULu/giphy.gif);
+    background-size: 100rem;
+}
+
+a {
+    font-size: 5rem;
+    color: crimson;
+    text-align: center;
+}
+
+h1 {
+    color: crimson;
+    font-size: 5rem;
+    text-align: center;
+}
+
+p {
+    font-size: 3rem;
+    color: crimson;
+    background-color: white;
+    /* width: 50rem; */
+    text-align: center;
+    
+}
+
+
+.granted {
+    color: green;
+    background-color: azure;
+}
+
